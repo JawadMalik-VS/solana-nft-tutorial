@@ -1,0 +1,38 @@
+{
+  "name": "Patrick Head #2",
+  "symbol": "PH",
+  "description": "My Patrick Heads",
+  "seller_fee_basis_points": 100,
+  "image": "2.png",
+  "external_url": "https://www.youtube.com/channel/UCso9sHU4Dj7HiZlS26MZoSQ",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "HotPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}
